@@ -1,0 +1,17 @@
+数据可视化
+1.Flask入门        框架
+2.Echarts应用      图表
+3.WordCloud应用    词云(文字)
+4.项目说明
+
+有数据才能做可视化
+json数据
+
+1.1关于Flask
+1.1.1 了解框架
+    Flask作为Web框架,它的作用主要是为了开发Web应用程序.
+    Web应用程序,是为了利用互联网交流工作文档.
+    client<-->server 交互
+    Flask使用Werkzeug来做路由分发(URL请求和试图函数之间的对应关系),根据每个URL请求,找到具体的试图函数
+    Flask使用Jinja2   来做框架渲染
+    

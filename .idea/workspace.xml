@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a4101b3a-0763-429e-99cc-e0f7870e99f6" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="test.db" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="test.db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="test.db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lHXpXA527Wa70fTESgAwJjq0iI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="redshift&#10;sqlite" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\python\爬虫和数据可视化\python基础\作业" />
+      <recent name="E:\python\爬虫和数据可视化\python基础" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.testSqlite1">
+    <configuration name="spider" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="爬虫和数据可视化" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/douban" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/douban/spider.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testSqlite" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="爬虫和数据可视化" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/douban/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/douban/test/testSqlite.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testSqlite1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="爬虫和数据可视化" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/douban/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/douban/test/testSqlite1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testXwlt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="爬虫和数据可视化" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/douban/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/douban/test/testXwlt.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testre" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="爬虫和数据可视化" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/douban/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/douban/test/testre.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.testSqlite1" />
+        <item itemvalue="Python.spider" />
+        <item itemvalue="Python.testSqlite" />
+        <item itemvalue="Python.testXwlt" />
+        <item itemvalue="Python.testre" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a4101b3a-0763-429e-99cc-e0f7870e99f6" name="默认更改列表" comment="" />
+      <created>1607255173901</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607255173901</updated>
+      <workItem from="1607255175869" duration="1081000" />
+      <workItem from="1607256366189" duration="165000" />
+      <workItem from="1607302881796" duration="4277000" />
+      <workItem from="1607309639179" duration="315000" />
+      <workItem from="1607310332064" duration="1154000" />
+      <workItem from="1607326564020" duration="12055000" />
+      <workItem from="1607389235900" duration="9277000" />
+      <workItem from="1607416535278" duration="9645000" />
+      <workItem from="1607494377759" duration="6858000" />
+      <workItem from="1607505098610" duration="3510000" />
+      <workItem from="1607566327800" duration="36000" />
+      <workItem from="1607595269441" duration="4540000" />
+      <workItem from="1607601209842" duration="2848000" />
+      <workItem from="1607650359928" duration="3108000" />
+      <workItem from="1607686083091" duration="1182000" />
+      <workItem from="1607847173429" duration="12031000" />
+      <workItem from="1607941461439" duration="5746000" />
+      <workItem from="1607950493124" duration="822000" />
+      <workItem from="1607994588055" duration="6769000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="352" y="20" key="#HTTP_Proxy" timestamp="1607950616805">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="352" y="20" key="#HTTP_Proxy/0.0.1920.1040@0.0.1920.1040" timestamp="1607950616805" />
+    <state x="352" y="10" key="#Inspections" timestamp="1607395557944">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="352" y="10" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1607395557944" />
+    <state x="502" y="160" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608000564497">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="502" y="160" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608000564497" />
+    <state x="722" y="285" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607256431749">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="722" y="285" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1607256431749" />
+    <state x="565" y="147" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1607504646562">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="565" y="147" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607504646562" />
+    <state x="639" y="116" key="FileChooserDialogImpl" timestamp="1608000562754">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="639" y="116" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1608000562754" />
+    <state width="1855" height="240" key="GridCell.Tab.0.bottom" timestamp="1608002113846">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1855" height="240" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608002113846" />
+    <state width="1855" height="240" key="GridCell.Tab.0.center" timestamp="1608002113846">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1855" height="240" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608002113846" />
+    <state width="1855" height="240" key="GridCell.Tab.0.left" timestamp="1608002113846">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1855" height="240" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608002113846" />
+    <state width="1855" height="240" key="GridCell.Tab.0.right" timestamp="1608002113846">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1855" height="240" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608002113846" />
+    <state width="343" height="731" key="HiddenNamespacesPopup" timestamp="1607950163749">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="343" height="731" key="HiddenNamespacesPopup/0.0.1920.1040@0.0.1920.1040" timestamp="1607950163749" />
+    <state x="214" y="0" key="SettingsEditor" timestamp="1607510207810">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="214" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1607510207810" />
+    <state width="746" height="596" key="SwitcherDM" timestamp="1607303092365">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="746" height="596" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1607303092365" />
+    <state x="793" y="354" width="492" height="339" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1607999761001">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="793" y="354" width="492" height="339" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1920.1040@0.0.1920.1040" timestamp="1607999761001" />
+    <state x="565" y="234" key="com.intellij.database.dbimport.ImportUtil.MyDialog" timestamp="1607999920969">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="565" y="234" key="com.intellij.database.dbimport.ImportUtil.MyDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607999920969" />
+    <state x="688" y="60" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1607423233951">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="688" y="60" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1607423233951" />
+    <state x="0" y="0" width="953" height="1040" key="find.popup" timestamp="1607498222319">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="0" width="953" height="1040" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1607498222319" />
+    <state x="453" y="0" width="1009" height="1036" key="search.everywhere.popup" timestamp="1607997785254">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="453" y="0" width="1009" height="1036" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1607997785254" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/$demo4.coverage" NAME="demo4 Coverage Results" MODIFIED="1607345618735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$lianxi.coverage" NAME="lianxi3 Coverage Results" MODIFIED="1607394447299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$demo1.coverage" NAME="demo1 Coverage Results" MODIFIED="1607426903764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/文件操作" />
+    <SUITE FILE_PATH="coverage/$01.coverage" NAME="01 Coverage Results" MODIFIED="1607498259057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$spider.coverage" NAME="spider Coverage Results" MODIFIED="1607949721551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/douban" />
+    <SUITE FILE_PATH="coverage/$lianxi2.coverage" NAME="lianxi2 Coverage Results" MODIFIED="1607339734708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$t1.coverage" NAME="t1 Coverage Results" MODIFIED="1607508913041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/douban/test1" />
+    <SUITE FILE_PATH="coverage/$testre.coverage" NAME="testre Coverage Results" MODIFIED="1607857586244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/douban/test" />
+    <SUITE FILE_PATH="coverage/$demo5.coverage" NAME="demo5 Coverage Results" MODIFIED="1607397638557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$testSqlite.coverage" NAME="testSqlite Coverage Results" MODIFIED="1607949997643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/douban/test" />
+    <SUITE FILE_PATH="coverage/$demo6.coverage" NAME="demo6 Coverage Results" MODIFIED="1607424346246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础" />
+    <SUITE FILE_PATH="coverage/Crawler$testSqlite.coverage" NAME="testSqlite Coverage Results" MODIFIED="1607997465736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/douban/test" />
+    <SUITE FILE_PATH="coverage/Crawler$spider.coverage" NAME="spider Coverage Results" MODIFIED="1607999769305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/douban" />
+    <SUITE FILE_PATH="coverage/$demo2.coverage" NAME="demo2 Coverage Results" MODIFIED="1607428782481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/文件操作异常处理" />
+    <SUITE FILE_PATH="coverage/$lianxi1.coverage" NAME="lianxi1 Coverage Results" MODIFIED="1607430406215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/文件操作异常处理" />
+    <SUITE FILE_PATH="coverage/$testXwlt.coverage" NAME="testXwlt Coverage Results" MODIFIED="1607948921783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/douban/test" />
+    <SUITE FILE_PATH="coverage/$lianxi4.coverage" NAME="lianxi4 Coverage Results" MODIFIED="1607425455838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础/作业" />
+    <SUITE FILE_PATH="coverage/$t2.coverage" NAME="t2 Coverage Results" MODIFIED="1607508916728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/douban/test2" />
+    <SUITE FILE_PATH="coverage/$demo1__1_.coverage" NAME="demo1 (1) Coverage Results" MODIFIED="1607427102065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/文件操作异常处理" />
+    <SUITE FILE_PATH="coverage/$testurllib.coverage" NAME="testurllib Coverage Results" MODIFIED="1607598886028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/douban/test" />
+    <SUITE FILE_PATH="coverage/Crawler$testSqlite1.coverage" NAME="testSqlite1 Coverage Results" MODIFIED="1608000530823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/douban/test" />
+    <SUITE FILE_PATH="coverage/$demo3.coverage" NAME="demo3 Coverage Results" MODIFIED="1607341178922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$testbs4.coverage" NAME="testbs4 Coverage Results" MODIFIED="1607652254283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/douban/test" />
+  </component>
+</project>
